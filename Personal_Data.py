@@ -10,5 +10,5 @@ civil_status = input("Enter your civil status: ")
 # Get user input for address
 address = input("Enter your address")
 # Get user input for contact number
-contact_number = input("Enter your contact number: ")
+
 
