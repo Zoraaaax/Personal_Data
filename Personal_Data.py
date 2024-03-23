@@ -1,3 +1,6 @@
+# Import the pyfiglet
+# Import the sleep function from the time module
+
 # Get user input for name
 name = input("Enter your name: ")
 # Get user input for dream job
@@ -8,3 +11,4 @@ civil_status = input("Enter your civil status: ")
 address = input("Enter your address")
 # Get user input for contact number
 contact_number = input("Enter your contact number: ")
+
