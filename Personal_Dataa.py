@@ -8,4 +8,5 @@ name = input("Enter your name: ")
 # Get user input for dream job
 dream_job = input("Enter your dream job: ")
 # Get user input for address
+address = input("Enter your address: ")
 # Get user input for contact number
