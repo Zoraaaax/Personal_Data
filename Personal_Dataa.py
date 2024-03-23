@@ -23,3 +23,4 @@ for line in output:
     for c in fancy_line:
         print(c, end='', flush=True)
         sleep(0.001)
+    print('')
