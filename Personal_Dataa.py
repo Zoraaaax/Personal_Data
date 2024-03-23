@@ -4,7 +4,7 @@ import pyfiglet
 from time import sleep
 
 
-
+# Define a function to create fancy text using pyfiglet
 
 
 # Get user input for name
