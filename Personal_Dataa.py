@@ -18,3 +18,6 @@ address = input("Enter your address: ")
 # Get user input for contact number
 contact_number = input("Enter your contact number: ")
 # Create an output string with formatted text
+output = ["My name is " + name + ", and my dream job is " + dream_job + "."
+          + "I live in " + address + ", and my contact number is" + contact_number]
+
