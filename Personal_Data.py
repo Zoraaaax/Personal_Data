@@ -15,3 +15,4 @@ civil_status = input("Enter your civil status: ")
 address = input("Enter your address")
 # Get user input for contact number
 contact_number = input("Enter your contact number: ")
+# Iterate through each line in the output
