@@ -21,3 +21,4 @@ contact_number = input("Enter your contact number: ")
 output = ["My name is " + name + ", and my dream job is " + dream_job + "."
           + "I live in " + address + ", and my contact number is" + contact_number]
 
+# Iterate through each line in the output
