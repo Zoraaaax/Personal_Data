@@ -5,7 +5,8 @@ from time import sleep
 
 
 # Define a function to create fancy text using pyfiglet
-
+def fancy_text(text):
+    return '\033[94;1m' + pyfiglet.figlet_format(text, font='isometric1') +  '\033[=0m'
 
 # Get user input for name
 name = input("Enter your name: ")
