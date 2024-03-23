@@ -17,3 +17,4 @@ dream_job = input("Enter your dream job: ")
 address = input("Enter your address: ")
 # Get user input for contact number
 contact_number = input("Enter your contact number: ")
+# Create an output string with formatted text
